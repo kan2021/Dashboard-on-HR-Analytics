@@ -18,10 +18,15 @@ Tools used
 Created KPIs using DAX
 
 ⭐️ Presence %
+
 ⭐️ Work From Home %
+
 ⭐️ Sick Leave %
+
 ⭐️ Present Days
+
 ⭐️ WFH Count
+
 ⭐️ SL Count
 
 
