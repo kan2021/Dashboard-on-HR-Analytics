@@ -21,6 +21,7 @@ WFH % = 10%
 SL % = 1.10% 
 
 Tools used
+
 Power BI
 
 Excel
